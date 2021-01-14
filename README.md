@@ -1,2 +1,2 @@
-# Alkarramax
+# Initial page
 Repositório dos meus estudos.
